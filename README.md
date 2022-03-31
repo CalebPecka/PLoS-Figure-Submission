@@ -4,11 +4,9 @@ expression via chromosomal access in colorectal cancer."
 
 Figures in the paper submission correspond with the following file names:
 
-```
   **Fig 1. High-level overview of the project pipeline.**
     
-  *ATACseq_Block_Diagram.tiff*
-  ```
+  ```ATACseq_Block_Diagram.tiff```
   
   **Fig 2. Low-level overview of the project pipeline.**
   
