@@ -8,7 +8,7 @@ Figures in the paper submission correspond with the following file names:
     
   ```ATACseq_Block_Diagram.tiff```
   
-  
+  <br>
   
   **Fig 2. Low-level overview of the project pipeline.**
   
