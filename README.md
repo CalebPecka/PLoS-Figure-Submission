@@ -6,9 +6,8 @@ Figures in the paper submission correspond with the following file names:
 
   <br>
 
-  **Fig 1. High-level overview of the project pipeline.**
-    
-  ```ATACseq_Block_Diagram.tiff```
+**Fig 1. High-level overview of the project pipeline.**
+    ```ATACseq_Block_Diagram.tiff```
   
   <br>
   
